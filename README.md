@@ -11,6 +11,7 @@ Click [here](https://github.com/mkafrin/PolyZone/releases) to go to the releases
 
 In order to use PolyZone in your script, you must _at least_ include PolyZone's client.lua directly in your __resource.lua or fxmanifest.lua. You can do that by using FiveM's @ syntax for importing resource files:
 
+
 ```lua
 client_scripts {
     '@PolyZone/client.lua',
